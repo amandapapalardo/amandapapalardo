@@ -7,6 +7,7 @@ Buscando minha primeira oportunidade na área de tecnologia 🚀
 
 ### Contato  
 📧 amandapapalardo1211@gmail.com 
+
 🔗 [Meu GitHub](https://github.com/amandapapalardo)
 
 ---
