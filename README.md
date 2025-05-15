@@ -1,4 +1,4 @@
-## Hi there 👋
+## Olá
 
 Futura desenvolvedora front-end, estudando HTML, CSS e JavaScript por conta própria.  
 Buscando minha primeira oportunidade na área de tecnologia 🚀
@@ -19,7 +19,7 @@ Buscando minha primeira oportunidade na área de tecnologia 🚀
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
+![Visitor Count](https://profile-counter.glitch.me/amandapapalardo/count.svg)
 
-![Visitantes](https://visitor-badge.glitch.me/badge?page_id=amandapapalardo.amandapapalardo)
 
 
