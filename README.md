@@ -1,6 +1,6 @@
 ## Olá
 
-Futura desenvolvedora front-end, estudando HTML, CSS e JavaScript por conta própria.  
+Desenvolvedora front-end, estudando HTML, CSS e JavaScript por conta própria.  
 Buscando minha primeira oportunidade na área de tecnologia 🚀
 
 ---
@@ -8,7 +8,6 @@ Buscando minha primeira oportunidade na área de tecnologia 🚀
 ### Contato  
 📧 amandapapalardo1211@gmail.com 
 
-🔗 [Meu GitHub](https://github.com/amandapapalardo)
 
 ---
 ## Ferramentas
